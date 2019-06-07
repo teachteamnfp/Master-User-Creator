@@ -1,3 +1,6 @@
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+
+
 # <img src="https://raw.githubusercontent.com/bwya77/Master-User-Creator/master/Icon/Main_Icon.ico" width="25"> Master-User-Creator
 ## Links
 - [Download EXE File](https://github.com/bwya77/AD-O365-Master-User-Creator/blob/master/bin/x64/Master%20User%20Creator.exe?raw=true)
